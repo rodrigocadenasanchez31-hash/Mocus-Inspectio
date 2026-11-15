@@ -13,7 +13,8 @@ Software (gratuito)
 * OpenMV IDE
 * Dataset AGAR (licencia CC BY-NC) vía HuggingFace.
 
-  Codigo
+Codigo
+
 * ei-model.tflite
 * ei-model.txt
 * ei_image_classification.py
