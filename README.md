@@ -7,6 +7,7 @@ Materiales
 
 * Placas de Petri de 90 mm con agar sal-manitol (medio selectivo para Staphylococcus; S. aureus lo vuelve amarillo).
 Alternativa segura para presentar sin bacterias vivas: fotos del dataset AGAR mostradas en tablet o impresas.
+* OpenMV4 Cam H7 Plus
 
 Software (gratuito)
 
