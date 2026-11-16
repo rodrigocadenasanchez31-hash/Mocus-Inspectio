@@ -11,7 +11,7 @@ Alternativa segura para presentar sin bacterias vivas: fotos del dataset AGAR mo
 Software (gratuito)
 
 * OpenMV IDE
-* 
+  
 Codigo
 
 * ei-model.tflite
